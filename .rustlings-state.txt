@@ -65,3 +65,4 @@ traits2
 traits3
 traits4
 traits5
+quiz3
